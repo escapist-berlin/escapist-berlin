@@ -24,7 +24,7 @@ I am a multilingual Full Stack Developer <img src="https://media.giphy.com/media
 
 - :telescope: I’m currently working on <a href="https://du-und-ich.herokuapp.com/">DU&ICH</a> project - an interactive archive, a text-based platform containing the content of 600 dating ads from men
 
-- :books: Solving coding challenges on <a href="https://exercism.org/profiles/escapist-berlin">Exercism</a> and learning React
+- :books: Solving coding challenges on <a href="https://exercism.org/profiles/escapist-berlin/solutions">Exercism</a> and learning React
 
 - :zap: In my free time, I read tech articles
 
