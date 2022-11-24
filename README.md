@@ -22,7 +22,7 @@
 ### :man_technologist: About Me :
 I am a multilingual Full Stack Developer <img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="30"> and a passionate DJ <img src="https://media.giphy.com/media/U3D4DHR7trnOrh26uA/giphy.gif" width="30">
 
-- :telescope: I’m currently working on <a href="https://du-und-ich.herokuapp.com/">DU&ICH</a> project - an interactive archive, a text-based platform containing the content of 600 dating ads from men
+- :telescope: I’m currently working on <a href="http://duundich.herokuapp.com/">DU&ICH</a> project - an interactive archive, a text-based platform containing the content of 600 dating ads from men
 
 - :books: Solving coding challenges on <a href="https://exercism.org/profiles/escapist-berlin/solutions">Exercism</a> and learning React
 
