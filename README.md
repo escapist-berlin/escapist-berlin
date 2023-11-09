@@ -7,9 +7,6 @@
     <a href="https://soundcloud.com/escapist_berlin">
       <img src="https://img.shields.io/badge/SoundCloud-orange?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud Badge"/>
     </a>
-    <a href="https://twitter.com/escapist_berlin">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
   </div>
   <h1>
     hey there
