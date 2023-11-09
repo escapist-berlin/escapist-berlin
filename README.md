@@ -17,15 +17,19 @@
 ---
 
 ### :man_technologist: About Me :
-I am a multilingual Full Stack Developer <img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="30"> and a passionate DJ <img src="https://media.giphy.com/media/U3D4DHR7trnOrh26uA/giphy.gif" width="30">
+Greetings! I'm an adept full-stack web developer <img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="30"> and an avid DJ <img src="https://media.giphy.com/media/U3D4DHR7trnOrh26uA/giphy.gif" width="30">
 
-- :telescope: I’m currently working on <a href="http://duundich.herokuapp.com/">DU&ICH</a> project - an interactive archive, a text-based platform containing the content of 600 dating ads from men
+- :musical_note: Meet <a href="https://music-app-zeta-liard.vercel.app/">MUSIC</a>, my Vue learning project — a minimalist music platform that marries Vue, Firebase, and Tailwind CSS, delivering a seamless auditory delight
 
-- :books: Solving coding challenges on <a href="https://exercism.org/profiles/escapist-berlin/solutions">Exercism</a> and learning React
+- :telescope: Explore <a href="http://duundich.herokuapp.com/">DU&ICH</a>—a captivating text-based platform (Ruby on Rails, JS, PostgreSQL, HTML, CSS) weaving stories from 600 men's ads. A post-Coding Bootcamp project currently undergoing optimization
 
-- :zap: In my free time, I read tech articles
+- :house: Dive into <a href="https://app.incred.de/">InCred</a>—my latest venture at InCred GmbH since January 2023. Fusing Vue/Vuetify and PHP/Laravel, this dynamic platform seamlessly bridges investors and bankers, accelerating real estate financing with precision and innovation
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/denis-kolokolov/)
+- :books: Tackling coding challenges on <a href="https://exercism.org/profiles/escapist-berlin/solutions">Exercism</a> fuels my passion for continuous improvement, propelling me to delve into the realms of React and Python
+
+- :vinyl_record: Outside of work, my greatest passion lies in electronic music. I enjoy collecting vinyl, DJing, and learning music production
+
+- :runner: I'm an active runner and often engage in volleyball :volleyball: matches with friends.
 
 ---
 
