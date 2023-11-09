@@ -27,9 +27,9 @@ Greetings! I'm an adept full-stack web developer <img src="https://media.giphy.c
 
 - :books: Tackling coding challenges on <a href="https://exercism.org/profiles/escapist-berlin/solutions">Exercism</a> fuels my passion for continuous improvement, propelling me to delve into the realms of React and Python
 
-- :vinyl_record: Outside of work, my greatest passion lies in electronic music. I enjoy collecting vinyl, DJing, and learning music production
+- :headphones: Beyond work, my heart beats for electronic music. I collect vinyl, DJ, and dive into music production
 
-- :runner: I'm an active runner and often engage in volleyball :volleyball: matches with friends.
+- :runner: I'm an active runner and often engage in volleyball :volleyball: matches with friends
 
 ---
 
