@@ -17,7 +17,7 @@
 ---
 
 ### :man_technologist: About Me :
-Greetings! I'm an adept full-stack web developer <img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="30"> and an avid DJ <img src="https://media.giphy.com/media/U3D4DHR7trnOrh26uA/giphy.gif" width="30">
+I'm an adept full-stack web developer <img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="30"> and an avid DJ <img src="https://media.giphy.com/media/U3D4DHR7trnOrh26uA/giphy.gif" width="30">
 
 - :musical_note: Meet <a href="https://music-app-zeta-liard.vercel.app/">MUSIC</a>, my Vue learning project — a minimalist music platform that marries Vue, Firebase, and Tailwind CSS, delivering a seamless auditory delight
 
@@ -37,7 +37,7 @@ Greetings! I'm an adept full-stack web developer <img src="https://media.giphy.c
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,ruby,rails,html,css,sass,bootstrap,postgres,mongodb,nodejs,webpack,git,github,heroku,figma,ps,discord,codepen,ableton&perline=20" />
+    <img src="https://skillicons.dev/icons?i=vue,vite,js,php,laravel,ruby,rails,html,css,sass,bootstrap,tailwind,mysql,postgres,firebase,git,figma,heroku,vercel,react&perline=20" />
   </a>
 </p>
 
