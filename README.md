@@ -37,7 +37,7 @@ I'm an adept full-stack web developer <img src="https://media.giphy.com/media/5n
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,vite,js,php,laravel,ruby,rails,html,css,sass,bootstrap,tailwind,mysql,postgres,firebase,git,figma,heroku,vercel,react&perline=20" />
+    <img src="https://skillicons.dev/icons?i=vue,vite,js,php,laravel,ruby,rails,html,css,sass,bootstrap,tailwind,mysql,postgres,firebase,git,figma,heroku,vercel,react,py&perline=20" />
   </a>
 </p>
 
