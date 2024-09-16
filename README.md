@@ -14,35 +14,36 @@
   </h1>
 </div>
 
----
+I'm a full-stack web developer with a strong focus on backend <img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="30">
 
-### :man_technologist: About Me :
-I'm an adept full-stack web developer <img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="30"> and an avid DJ <img src="https://media.giphy.com/media/U3D4DHR7trnOrh26uA/giphy.gif" width="30">
+<p>Here are some of my recent projects:</p>
 
-- :musical_note: Meet <a href="https://music-app-zeta-liard.vercel.app/">MUSIC</a>, my Vue learning project — a minimalist music platform that marries Vue, Firebase, and Tailwind CSS, delivering a seamless auditory delight
+- :minidisc: <a href="https://github.com/escapist-berlin/dig-instinct-app">digInstinct</a>: (in development) A Discogs Wantlist Manager built with Laravel 11, Vue 3, Inertia.js, Tailwind CSS, and Vuetify. Features include DiscogsAPI integration for syncing wantlists, OAuth authentication, custom list management, and a tool to help DJs organize vinyl collections more efficiently.
 
-- :telescope: Explore <a href="http://duundich.herokuapp.com/">DU&ICH</a>—a captivating text-based platform (Ruby on Rails, JS, PostgreSQL, HTML, CSS) weaving stories from 600 men's ads. A post-Coding Bootcamp project currently undergoing optimization
+- :musical_note: <a href="https://music-app-zeta-liard.vercel.app/">MUSIC</a>: A minimalist music platform built with Vue, Firebase, and Tailwind CSS as part of my Vue learning project
 
-- :house: Dive into <a href="https://app.incred.de/">InCred</a>—my latest venture at InCred GmbH since January 2023. Fusing Vue/Vuetify and PHP/Laravel, this dynamic platform seamlessly bridges investors and bankers, accelerating real estate financing with precision and innovation
-
-- :books: Tackling coding challenges on <a href="https://exercism.org/profiles/escapist-berlin/solutions">Exercism</a> fuels my passion for continuous improvement, propelling me to delve into the realms of React and Python
-
-- :headphones: Beyond work, my heart beats for electronic music. I collect vinyl, DJ, and dive into music production
-
-- :runner: I'm an active runner and often engage in volleyball :volleyball: matches with friends
+<p>In my free time, I DJ, collect vinyl, and explore music production :headphones:. I also stay active by running :runner:, doing HIIT training, and swimming.</p>
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+<h3 align="center">
+  :hammer_and_wrench: Languages and Tools:
+</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,vite,js,php,laravel,ruby,rails,html,css,sass,bootstrap,tailwind,mysql,postgres,firebase,git,figma,heroku,vercel,react,py&perline=20" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,ruby,rails,py,mysql,postgres,firebase,vue,react,vite,js,html,css,sass,tailwind,git,figma,heroku,vercel&perline=20" />
   </a>
 </p>
 
 ---
 
-### :fire: My Stats :
+<h3 align="center">
+  <strong>:fire: My Stats :</strong>
+</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=escapist-berlin&theme=vue-dark&show_icons=true)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=escapist-berlin&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
+  </a>
+</p>
