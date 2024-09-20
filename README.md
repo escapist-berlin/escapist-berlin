@@ -20,6 +20,12 @@ I'm a full-stack web developer with a strong focus on backend <img src="https://
 
 - :minidisc: <a href="https://github.com/escapist-berlin/dig-instinct-app">digInstinct</a>: (in development) A Discogs Wantlist Manager built with Laravel 11, Vue 3, Inertia.js, Tailwind CSS, and Vuetify. Features include DiscogsAPI integration for syncing wantlists, OAuth authentication, custom list management, and a tool to help DJs organize vinyl collections more efficiently.
 
+- :control_knobs: <a href="https://music-geek-dashboard.vercel.app/">Music Geek Dashboard</a>: A dashboard for DJs, vinyl record collectors, and electronic music enthusiasts, created as part of a job application assignment. Built with Vue.js and SCSS, it features widgets powered by external APIs:
+  - Weather Widget (Open Meteo API)
+  - Discogs Widget (Discogs API)
+  - Mixcloud Widget (focused on Resident Advisor mixes)
+
+
 - :musical_note: <a href="https://music-app-zeta-liard.vercel.app/">MUSIC</a>: A minimalist music platform built with Vue, Firebase, and Tailwind CSS as part of my Vue learning project
 
 <p>In my free time, I DJ, collect vinyl, and explore music production :headphones:. I also stay active by running :runner:, doing HIIT training, and swimming.</p>
