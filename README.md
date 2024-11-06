@@ -53,3 +53,9 @@ I'm a full-stack web developer with a strong focus on backend <img src="https://
     <img src="https://streak-stats.demolab.com?user=escapist-berlin&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
   </a>
 </p>
+
+<p align="center">
+  <img src="https://github.r2v.ch/codewars?user=escapist-berlin&theme=gradient&top_languages=true&hide_clan=true" alt="Codewars Score">
+</p>
+
+
