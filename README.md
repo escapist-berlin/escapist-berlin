@@ -4,9 +4,6 @@
     <a href="https://www.linkedin.com/in/denis-kolokolov/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://soundcloud.com/escapist_berlin">
-      <img src="https://img.shields.io/badge/SoundCloud-orange?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud Badge"/>
-    </a>
   </div>
   <h1>
     hey there
@@ -14,21 +11,59 @@
   </h1>
 </div>
 
-I'm a full-stack web developer with a strong focus on backend <img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="30">
+### 🤸‍♂️ About Me:
 
-<p>Here are some of my recent projects:</p>
+I'm a passionate Full-Stack Developer with extensive experience in **object-oriented programming**, specializing in **PHP (Laravel)** and **JavaScript (Vue.js and Vuetify)**. While I primarily focus on backend development <img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="30">, I also have a strong foundation in frontend technologies and database management.
 
-- :minidisc: <a href="https://github.com/escapist-berlin/dig-instinct-app">digInstinct</a>: (in development) A Discogs Wantlist Manager built with Laravel 11, Vue 3, Inertia.js, Tailwind CSS, and Vuetify. Features include DiscogsAPI integration for syncing wantlists, OAuth authentication, custom list management, and a tool to help DJs organize vinyl collections more efficiently.
+- Proficient in **HTML5**, with a solid understanding of **CSS3**, and experienced in working with **MySQL**, **PostgreSQL**, and **Firebase**.
+- Skilled in **REST APIs**, **Git**, and **GitHub**.
+- Advocate for **agile methodologies** and dedicated to **test-driven development** using tools like **Vitest** and **Pest**.
+- Currently expanding my expertise in **Kotlin** and **TypeScript** to enhance my full-stack capabilities.
+- Always curious about new technologies and eager to tackle challenges that help me grow professionally.
 
-- :control_knobs: <a href="https://music-geek-dashboard.vercel.app/">Music Geek Dashboard</a>: A dashboard for DJs, vinyl record collectors, and electronic music enthusiasts, created as part of a job application assignment. Built with Vue.js and SCSS, it features widgets powered by external APIs:
-  - Weather Widget (Open Meteo API)
-  - Discogs Widget (Discogs API)
-  - Mixcloud Widget (focused on Resident Advisor mixes)
+---
 
+### 🛠️ My Recent Projects:
 
-- :musical_note: <a href="https://music-app-zeta-liard.vercel.app/">MUSIC</a>: A minimalist music platform built with Vue, Firebase, and Tailwind CSS as part of my Vue learning project
+#### 🎾 Promoter API | [Repository Link](https://github.com/escapist-berlin/promoter-api)
 
-<p>In my free time, I DJ, collect vinyl, and explore music production :headphones:. I also stay active by running :runner:, doing HIIT training, and swimming.</p>
+A Laravel-based API-only app designed for event management companies to streamline promoter deployment. It includes:
+
+- Full CRUD functionality for promoters, skills, and promoter groups.
+- Dynamic updates to promoter profiles based on new skills.
+- Grouping of promoters by shared skills for efficient allocation.
+- Swagger-generated OpenAPI documentation for seamless integration.
+
+**Technologies & Tools**: Laravel, SQLite, Swagger (OpenAPI), PHP 8.3 (via Herd).
+
+---
+
+#### 💿 [KollektivXplorer](https://kollektivxplorer-app.vercel.app/) | [Repository Link](https://github.com/escapist-berlin/kollektivxplorer-app)
+
+A Single Page Application (SPA) for navigating the KollektivX archive of rare records, featuring:
+
+- **Search Bar**: Filter records by artist, title, label, genre, and more.
+- **Sortable Table**: Organize results with clickable headers.
+- **Media Player**: Play tracks via API-connected YouTube links.
+- **External Links**: Navigate to Discogs pages for artists, titles, and labels.
+
+**Technologies & Tools**: Vite, Vue 3 & Vuetify.
+
+---
+
+#### 🕹️ [Music Geek Dashboard](https://music-geek-dashboard.vercel.app/) | [Repository Link](https://github.com/escapist-berlin/music-geek-dashboard)
+
+A dashboard for DJs and vinyl record collectors, featuring widgets for weather (Open Meteo API), Discogs (Discogs API), and Mixcloud (focused on Resident Advisor mixes). Built as part of a job application.
+
+**Technologies & Tools**: Vue.js, SCSS.
+
+---
+
+### 🧩 Hobbies and Interests:
+
+When I’m not coding, I enjoy:  
+- **DJing**, collecting vinyl, and exploring music production 🎹.  
+- Staying active with **running**, **HIIT training**, and **swimming** 🏊.
 
 ---
 
