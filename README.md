@@ -27,35 +27,46 @@ I'm a passionate Full-Stack Developer with extensive experience in **object-orie
 
 #### 🎾 Promoter API | [Repository Link](https://github.com/escapist-berlin/promoter-api)
 
-A Laravel-based API-only app designed for event management companies to streamline promoter deployment. It includes:
+This project was a learning initiative to build a Laravel-based API for an imaginary event management company. 
+It focuses on managing promoters, their skills, and promoter groups, making it easier for the company to assign promoters to events.
+Key features:
 
 - Full CRUD functionality for promoters, skills, and promoter groups.
-- Dynamic updates to promoter profiles based on new skills.
-- Grouping of promoters by shared skills for efficient allocation.
-- Swagger-generated OpenAPI documentation for seamless integration.
+- Swagger-generated OpenAPI documentation for easy API interaction and integration.
 
-**Technologies & Tools**: Laravel, SQLite, Swagger (OpenAPI), PHP 8.3 (via Herd).
+**Technologies & Tools**:
+<a href="https://www.php.net/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" width="30"/></a>
+<a href="https://laravel.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" width="30"/></a>
+<a href="https://swagger.io/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" alt="Swagger" width="30"/></a>
+<a href="https://www.sqlite.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" alt="SQLite" width="60"/></a>
 
 ---
 
 #### 💿 [KollektivXplorer](https://kollektivxplorer-app.vercel.app/) | [Repository Link](https://github.com/escapist-berlin/kollektivxplorer-app)
 
-A Single Page Application (SPA) for navigating the KollektivX archive of rare records, featuring:
+A Single Page Application (SPA), a personal tool built for myself and my friends for navigating the KollektivX archive, a collection of over 2000 rare vinyl records.
+Key features:
 
-- **Search Bar**: Filter records by artist, title, label, genre, and more.
-- **Sortable Table**: Organize results with clickable headers.
-- **Media Player**: Play tracks via API-connected YouTube links.
-- **External Links**: Navigate to Discogs pages for artists, titles, and labels.
+- Search Bar: Filter records by artist, title, label, genre, and more.
+- Sortable Table: Organize records with clickable headers.
+- Media Player: Listen to tracks via YouTube links from the Discogs API.
+- External Links: Access Discogs pages (artists, titles, and labels) for deeper exploration.
 
-**Technologies & Tools**: Vite, Vue 3 & Vuetify.
+**Technologies & Tools**:
+<a href="https://vuejs.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="Vue 3" width="30"/></a>
+<a href="https://vitejs.dev/"><img src="https://vitejs.dev/logo.svg" alt="Vite" width="30"/></a>
+<a href="https://vuetifyjs.com/"><img src="https://cdn.vuetifyjs.com/docs/images/logos/vuetify-logo-light-atom.svg" alt="Vuetify" width="30"/></a>
 
 ---
 
 #### 🕹️ [Music Geek Dashboard](https://music-geek-dashboard.vercel.app/) | [Repository Link](https://github.com/escapist-berlin/music-geek-dashboard)
 
-A dashboard for DJs and vinyl record collectors, featuring widgets for weather (Open Meteo API), Discogs (Discogs API), and Mixcloud (focused on Resident Advisor mixes). Built as part of a job application.
+A project built as part of a job interview assignment. I created three interactive widgets using Vue.js and SCSS, which pull data from the Discogs API, Open Meteo API, and Mixcloud API. 
+The goal was to showcase my skills in Vue.js and integrating third-party APIs into a dashboard interface.
 
-**Technologies & Tools**: Vue.js, SCSS.
+**Technologies & Tools**:
+<a href="https://vuejs.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="Vue 3" width="30"/></a>
+<a href="https://sass-lang.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" alt="SCSS" width="37"/></a> 
 
 ---
 
@@ -73,7 +84,7 @@ When I’m not coding, I enjoy:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,ruby,rails,py,mysql,postgres,firebase,vue,react,vite,js,html,css,sass,tailwind,git,figma,heroku,vercel&perline=20" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,vue,vite,js,mysql,postgres,html,css,sass,tailwind,git,vercel,ruby,rails,py,firebase,react,figma,heroku&perline=20" />
   </a>
 </p>
 
