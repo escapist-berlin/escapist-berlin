@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Denis Kolokolov 👋</h1>
+  <h1>Hi, I'm Denis 👋</h1>
   <p><strong>Backend-focused Full-Stack Developer</strong> · Berlin, Germany</p>
   <p>Building maintainable APIs, data-driven applications, and modern web experiences.</p>
   <p>
