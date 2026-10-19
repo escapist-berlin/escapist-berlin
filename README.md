@@ -1,107 +1,86 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/3C55oUiJteHW8/giphy.gif" width="100"/>
-  <div id="badges">
+<div align="center">
+  <h1>Hi, I'm Denis Kolokolov 👋</h1>
+  <p><strong>Backend-focused Full-Stack Developer</strong> · Berlin, Germany</p>
+  <p>Building maintainable APIs, data-driven applications, and modern web experiences.</p>
+  <p>
     <a href="https://www.linkedin.com/in/denis-kolokolov/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn" />
     </a>
-  </div>
-  <h1>
-    hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
+  </p>
 </div>
 
-### 🤸‍♂️ About Me:
-
-I'm a passionate Full-Stack Developer with extensive experience in **object-oriented programming**, specializing in **PHP (Laravel)** and **JavaScript (Vue.js and Vuetify)**. While I primarily focus on backend development <img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="30">, I also have a strong foundation in frontend technologies and database management.
-
-- Proficient in **HTML5**, with a solid understanding of **CSS3**, and experienced in working with **MySQL**, **PostgreSQL**, and **Firebase**.
-- Skilled in **REST APIs**, **Git**, and **GitHub**.
-- Advocate for **agile methodologies** and dedicated to **test-driven development** using tools like **Vitest** and **Pest**.
-- Currently expanding my expertise in **Kotlin** and **TypeScript** to enhance my full-stack capabilities.
-- Always curious about new technologies and eager to tackle challenges that help me grow professionally.
-
 ---
 
-### 🛠️ My Recent Projects:
+## 👨‍💻 About me
 
-#### 🎾 Promoter API | [Repository Link](https://github.com/escapist-berlin/promoter-api)
+I'm a **full-stack developer with over three years of professional experience** building web and SaaS applications, with a focus on **PHP and Laravel backend development**.
 
-This project was a learning initiative to build a Laravel-based API for an imaginary event management company. 
-It focuses on managing promoters, their skills, and promoter groups, making it easier for the company to assign promoters to events.
-Key features:
+I develop **REST APIs** and data-intensive applications using **PostgreSQL, MySQL, and MariaDB**, and work on database and application performance optimization. On the frontend, I build interfaces with **Vue.js and TypeScript**. My experience also covers application architecture, automated testing with **Pest and Vitest**, and delivering software with **Docker and CI/CD**.
 
-- Full CRUD functionality for promoters, skills, and promoter groups.
-- Swagger-generated OpenAPI documentation for easy API interaction and integration.
+I enjoy working across the stack, but I'm particularly interested in building backend systems that are easy to understand, test, and maintain. I'm currently expanding my backend expertise with **Kotlin and Spring Boot**.
 
-**Technologies & Tools**:
-<a href="https://www.php.net/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" width="30"/></a>
-<a href="https://laravel.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" width="30"/></a>
-<a href="https://swagger.io/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" alt="Swagger" width="30"/></a>
-<a href="https://www.sqlite.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" alt="SQLite" width="60"/></a>
+## 🚀 Selected projects
 
----
+### 💳 [Flow — Personal Finance PWA](https://flow.lovecore.duckdns.org/demo)
 
-#### 💿 [KollektivXplorer](https://kollektivxplorer-app.vercel.app/) | [Repository Link](https://github.com/escapist-berlin/kollektivxplorer-app)
+An installable, mobile-first app for managing personal finances, including income, expenses, recurring costs, monthly pay cycles, and a dashboard with budget and spending insights.
 
-A Single Page Application (SPA), a personal tool built for myself and my friends for navigating the KollektivX archive, a collection of over 2000 rare vinyl records.
-Key features:
+- **Architecture:** Domain-oriented Laravel backend and Vue/TypeScript frontend, connected through Inertia.js.
+- **Security & quality:** Passkey authentication, 2FA, and email verification with Laravel Fortify; automated tests with Pest and Vitest, plus PHPStan.
+- **Deployment:** Self-hosted on Hetzner using Docker Compose, FrankenPHP, Caddy, and separate app, queue-worker, and scheduler containers.
 
-- Search Bar: Filter records by artist, title, label, genre, and more.
-- Sortable Table: Organize records with clickable headers.
-- Media Player: Listen to tracks via YouTube links from the Discogs API.
-- External Links: Access Discogs pages (artists, titles, and labels) for deeper exploration.
+**Stack:** `PHP 8.3` · `Laravel 13` · `Vue 3` · `TypeScript` · `Inertia.js 3` · `SQLite` · `Docker`
 
-**Technologies & Tools**:
-<a href="https://vuejs.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="Vue 3" width="30"/></a>
-<a href="https://vitejs.dev/"><img src="https://vitejs.dev/logo.svg" alt="Vite" width="30"/></a>
-<a href="https://vuetifyjs.com/"><img src="https://cdn.vuetifyjs.com/docs/images/logos/vuetify-logo-light-atom.svg" alt="Vuetify" width="30"/></a>
+**[Explore live demo →](https://flow.lovecore.duckdns.org/demo)**
 
----
+### 🎟️ [Promoter API](https://github.com/escapist-berlin/promoter-api)
 
-#### 🕹️ [Music Geek Dashboard](https://music-geek-dashboard.vercel.app/) | [Repository Link](https://github.com/escapist-berlin/music-geek-dashboard)
+A Laravel REST API for a fictional event-management company, built around promoters, their skills, and groups of promoters with similar skills.
 
-A project built as part of a job interview assignment. I created three interactive widgets using Vue.js and SCSS, which pull data from the Discogs API, Open Meteo API, and Mixcloud API. 
-The goal was to showcase my skills in Vue.js and integrating third-party APIs into a dashboard interface.
+- **API design:** CRUD operations for promoters, skills, and promoter groups.
+- **Documentation:** Swagger / OpenAPI documentation for exploring and integrating with the API.
 
-**Technologies & Tools**:
-<a href="https://vuejs.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="Vue 3" width="30"/></a>
-<a href="https://sass-lang.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" alt="SCSS" width="37"/></a> 
+**Stack:** `PHP 8.3` · `Laravel 11` · `SQLite` · `REST API` · `OpenAPI`
 
----
+**[View repository →](https://github.com/escapist-berlin/promoter-api)**
 
-### 🧩 Hobbies and Interests:
+## 🛠️ Tech stack
 
-When I’m not coding, I enjoy:  
-- **DJing**, collecting vinyl, and exploring music production 🎹.  
-- Staying active with **running**, **HIIT training**, and **swimming** 🏊.
-
----
-
-<h3 align="center">
-  :hammer_and_wrench: Languages and Tools:
-</h3>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,vue,vite,js,mysql,postgres,html,css,sass,tailwind,git,vercel,ruby,rails,py,firebase,react,figma,heroku&perline=20" />
-  </a>
+<!-- A curated selection of core skills — not every tool I've ever used. -->
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,vue,ts,postgres,mysql,docker,git,vitest&amp;perline=9" alt="PHP, Laravel, Vue.js, TypeScript, PostgreSQL, MySQL, Docker, Git, and Vitest" />
 </p>
 
----
+- **Backend & APIs:** PHP, Laravel, REST APIs, Swagger / OpenAPI
+- **Frontend:** Vue.js, TypeScript, JavaScript, Inertia.js
+- **Databases:** PostgreSQL, MySQL, MariaDB, SQLite
+- **Testing & delivery:** Pest, PHPUnit, Vitest, PHPStan, Git, Docker, CI/CD
 
-<h3 align="center">
-  <strong>:fire: My Stats :</strong>
-</h3>
+## 🌱 Kotlin & Spring Boot — Current focus
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=escapist-berlin&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
-  </a>
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin,spring&amp;perline=2" alt="Kotlin and Spring Boot" />
 </p>
 
-<p align="center">
-  <img src="https://github.r2v.ch/codewars?user=escapist-berlin&theme=gradient&top_languages=true&hide_clan=true" alt="Codewars Score">
-</p>
+I'm expanding my backend expertise through Hyperskill's [Kotlin Backend Developer (Spring Boot)](https://hyperskill.org/courses/37-kotlin-backend-developer-spring-boot) course, focusing on Kotlin, REST APIs, data persistence, security, and testing.
 
+I'm also getting more familiar with **functional-style programming in Kotlin**, including higher-order functions and collection transformations.
 
+### 🧩 Hyperskill projects
+
+I work through each project in its own repository, committing completed stages along the way. Here's an overview of my Kotlin project work, separate from my professional portfolio projects above.
+
+<!-- HYPERSKILL:START -->
+
+| Project | Status |
+| :--- | :--- |
+| [Chuck Norris Cipher Encoder](https://github.com/escapist-berlin/chucknorris) | 🔄 In Progress |
+| [Zookeeper](https://github.com/escapist-berlin/zookeeper) | ✅ Completed |
+| [Encryption-Decryption](https://github.com/escapist-berlin/encryption-decryption) | ✅ Completed |
+| [Coffee Machine](https://github.com/escapist-berlin/coffee-machine) | ✅ Completed |
+
+<!-- HYPERSKILL:END -->
+
+## 🎧 Beyond code
+
+Music is a big part of my life: I enjoy **DJing, music production, and collecting vinyl records**. I also like staying active through **running, HIIT training, and swimming**.
